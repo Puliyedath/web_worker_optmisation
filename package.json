@@ -1,0 +1,23 @@
+{
+  "name": "web-workers-demo",
+  "version": "1.0.0",
+  "description": "Migrate Long Running JS onto a Web Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/web-workers-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/web-workers-demo/issues"
+  },
+  "homepage": "https://github.com/udacity/web-workers-demo#readme",
+  "devDependencies": {
+    "superstatic": "^5.0.1"
+  }
+}
